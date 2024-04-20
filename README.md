@@ -12,3 +12,5 @@ Este programa tem o intuito de simular uma partida de domino atraves de um progr
 * Uma peça aleatória sera inserida na mesa e apartir dela começa o jogo;
 * Na vez do jogador principal(usuário), o jogo pedirá para o próprio escolhar uma peça de acordo com o seu índice.
 * Caso o jogador não tenha uma peça jogável, o jogo pulara sua vez automaticamente.
+## Integrantes
+Gabriel e Gustavo.
